@@ -7,7 +7,7 @@
         <div class="col">
             <div class="card">
                 <div class="card-header">
-                    <i class="fas fa-home"></i> @lang('navs.general.home')
+                    <i class="fas fa-home"></i> @lang('navs.general.home') aa
                 </div>
                 <div class="card-body">
                     @lang('strings.frontend.welcome_to', ['place' => app_name()])

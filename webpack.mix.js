@@ -47,6 +47,8 @@ if (mix.inProduction() || process.env.npm_lifecycle_event !== 'hot') {
     mix.version();
 }
 
+mix.browserSync('localhost:8008');
+
 const webpackConfig = smp.wrap({
 
 });

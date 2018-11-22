@@ -19,7 +19,7 @@
 </script>
 
 <style lang="scss" scoped>
-$color-1: rgb(25, 117, 40);
+$color-1: rgb(167, 21, 123);
 .txt-color {
     color: $color-1
 }

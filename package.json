@@ -21,6 +21,8 @@
     "axios": "^0.18",
     "babel-jest": "^22.4.4",
     "bootstrap": "^4.1.3",
+    "browser-sync": "^2.26.3",
+    "browser-sync-webpack-plugin": "^2.2.2",
     "cross-env": "^5.2.0",
     "jest": "^22.4.4",
     "jest-vue-preprocessor": "^1.3.1",
